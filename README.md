@@ -1,4 +1,4 @@
-📊 Andes Retail Group — Dashboard de Desempeño Comercial 2024-2025
+# 📊 Andes Retail Group — Dashboard de Desempeño Comercial 2024-2025
 
 Dashboard interactivo en Power BI que analiza el desempeño comercial de Andes Retail Group entre 2024 y 2025: ingresos, pedidos, ticket promedio, clientes activos y margen, con cortes por tiempo, país, región, categoría de producto y segmento de cliente.
 
